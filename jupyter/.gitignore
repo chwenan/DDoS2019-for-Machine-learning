@@ -1,1 +1,6 @@
-tensorflow02
+jupyter/tensorflow02/Include/
+jupyter/tensorflow02/Lib/
+jupyter/tensorflow02/Scripts/
+jupyter/tensorflow02/share/
+jupyter/tensorflow02/pyvenv.cfggit status
+
