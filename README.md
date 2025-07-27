@@ -4,6 +4,18 @@
 - **來源**：Canadian Institute for Cybersecurity（UNB）
 - **連結**：[https://www.unb.ca/cic/datasets/ddos-2019.html](https://www.unb.ca/cic/datasets/ddos-2019.html)
 
+## 🧰 執行環境
+
+- **作業系統**：Windows / Linux / macOS（建議使用支援 NVIDIA GPU 的平台以啟用 CUDA 加速）
+- **Python 版本**：3.9.0
+- **CUDA 版本**：11.2.0
+- **cuDNN 版本**：8.1.0
+- **主要套件**：
+  - TensorFlow（支援 GPU 加速）
+  - XGBoost
+  - Pandas / NumPy
+  - Matplotlib / Seaborn（視覺化）
+
 ## ⚙️ 執行方式
 
 ### 1. 安裝相依套件
