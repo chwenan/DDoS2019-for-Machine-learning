@@ -1,0 +1,75 @@
+第1組參數20F-15T
+Accuracy: 99.993%
+Precision: 99.993%
+Recall: 99.993%
+F1-score: 99.993%
+第2組參數20F-10T
+Accuracy: 99.995%
+Precision: 99.995%
+Recall: 99.995%
+F1-score: 99.995%
+第3組參數20F-5T
+Accuracy: 99.985%
+Precision: 99.985%
+Recall: 99.985%
+F1-score: 99.985%
+第4組參數15F-15T
+Accuracy: 99.995%
+Precision: 99.995%
+Recall: 99.995%
+F1-score: 99.995%
+第5組參數15F-10T
+Accuracy: 99.978%
+Precision: 99.978%
+Recall: 99.978%
+F1-score: 99.978%
+第6組參數15F-5T
+Accuracy: 99.988%
+Precision: 99.988%
+Recall: 99.988%
+F1-score: 99.988%
+第7組參數10F-15T
+Accuracy: 99.995%
+Precision: 99.995%
+Recall: 99.995%
+F1-score: 99.995%
+第8組參數10F-10T
+Accuracy: 99.997%
+Precision: 99.997%
+Recall: 99.997%
+F1-score: 99.997%
+第9組參數10F-5T
+Accuracy: 99.988%
+Precision: 99.988%
+Recall: 99.988%
+F1-score: 99.988%
+第10組參數5F-15T
+Accuracy: 99.995%
+Precision: 99.995%
+Recall: 99.995%
+F1-score: 99.995%
+第11組參數5F-10T
+Accuracy: 99.995%
+Precision: 99.995%
+Recall: 99.995%
+F1-score: 99.995%
+第12組參數5F-5T
+Accuracy: 99.477%
+Precision: 99.480%
+Recall: 99.477%
+F1-score: 99.477%
+第13組參數4F-15T
+Accuracy: 99.982%
+Precision: 99.982%
+Recall: 99.982%
+F1-score: 99.982%
+第14組參數4F-10T
+Accuracy: 99.995%
+Precision: 99.995%
+Recall: 99.995%
+F1-score: 99.995%
+第15組參數4F-5T
+Accuracy: 99.993%
+Precision: 99.993%
+Recall: 99.993%
+F1-score: 99.993%

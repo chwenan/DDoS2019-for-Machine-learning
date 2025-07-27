@@ -1,0 +1,313 @@
+ 第1次 precision、recall、f1詳細資訊 20F-15T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5012
+    DrDoS_DNS       1.00      1.00      1.00      4897
+   DrDoS_LDAP       1.00      1.00      1.00      4939
+  DrDoS_MSSQL       1.00      1.00      1.00      4994
+    DrDoS_NTP       1.00      1.00      1.00      5051
+DrDoS_NetBIOS       1.00      1.00      1.00      5019
+   DrDoS_SNMP       1.00      1.00      1.00      4992
+   DrDoS_SSDP       1.00      1.00      1.00      4942
+    DrDoS_UDP       1.00      1.00      1.00      5008
+          Syn       1.00      1.00      1.00      5187
+         TFTP       1.00      1.00      1.00      4960
+      UDP-lag       1.00      1.00      1.00      4998
+
+     accuracy                           1.00     59999
+    macro avg       1.00      1.00      1.00     59999
+ weighted avg       1.00      1.00      1.00     59999
+
+
+ 第2次 precision、recall、f1詳細資訊 20F-10T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5013
+    DrDoS_DNS       1.00      1.00      1.00      4970
+   DrDoS_LDAP       1.00      1.00      1.00      4984
+  DrDoS_MSSQL       1.00      1.00      1.00      5086
+    DrDoS_NTP       1.00      1.00      1.00      5076
+DrDoS_NetBIOS       1.00      1.00      1.00      4942
+   DrDoS_SNMP       1.00      1.00      1.00      4967
+   DrDoS_SSDP       1.00      1.00      1.00      5001
+    DrDoS_UDP       1.00      1.00      1.00      4971
+          Syn       1.00      1.00      1.00      5036
+         TFTP       1.00      1.00      1.00      4934
+      UDP-lag       1.00      1.00      1.00      5019
+
+     accuracy                           1.00     59999
+    macro avg       1.00      1.00      1.00     59999
+ weighted avg       1.00      1.00      1.00     59999
+
+
+ 第3次 precision、recall、f1詳細資訊 20F-5T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5013
+    DrDoS_DNS       1.00      1.00      1.00      4970
+   DrDoS_LDAP       1.00      1.00      1.00      4981
+  DrDoS_MSSQL       1.00      1.00      1.00      5137
+    DrDoS_NTP       1.00      1.00      1.00      4944
+DrDoS_NetBIOS       1.00      1.00      1.00      4935
+   DrDoS_SNMP       1.00      1.00      1.00      5045
+   DrDoS_SSDP       1.00      1.00      1.00      5008
+    DrDoS_UDP       1.00      1.00      1.00      5012
+          Syn       1.00      1.00      1.00      4936
+         TFTP       1.00      1.00      1.00      4992
+      UDP-lag       1.00      1.00      1.00      5027
+
+     accuracy                           1.00     60000
+    macro avg       1.00      1.00      1.00     60000
+ weighted avg       1.00      1.00      1.00     60000
+
+
+ 第4次 precision、recall、f1詳細資訊 15F-15T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5012
+    DrDoS_DNS       1.00      1.00      1.00      4897
+   DrDoS_LDAP       1.00      1.00      1.00      4939
+  DrDoS_MSSQL       1.00      1.00      1.00      4994
+    DrDoS_NTP       1.00      1.00      1.00      5051
+DrDoS_NetBIOS       1.00      1.00      1.00      5019
+   DrDoS_SNMP       1.00      1.00      1.00      4992
+   DrDoS_SSDP       1.00      1.00      1.00      4942
+    DrDoS_UDP       1.00      1.00      1.00      5008
+          Syn       1.00      1.00      1.00      5187
+         TFTP       1.00      1.00      1.00      4960
+      UDP-lag       1.00      1.00      1.00      4998
+
+     accuracy                           1.00     59999
+    macro avg       1.00      1.00      1.00     59999
+ weighted avg       1.00      1.00      1.00     59999
+
+
+ 第5次 precision、recall、f1詳細資訊 15F-10T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5013
+    DrDoS_DNS       1.00      1.00      1.00      4970
+   DrDoS_LDAP       1.00      1.00      1.00      4984
+  DrDoS_MSSQL       1.00      1.00      1.00      5086
+    DrDoS_NTP       1.00      1.00      1.00      5076
+DrDoS_NetBIOS       1.00      1.00      1.00      4942
+   DrDoS_SNMP       1.00      1.00      1.00      4967
+   DrDoS_SSDP       1.00      1.00      1.00      5001
+    DrDoS_UDP       1.00      1.00      1.00      4971
+          Syn       1.00      1.00      1.00      5036
+         TFTP       1.00      1.00      1.00      4934
+      UDP-lag       1.00      1.00      1.00      5019
+
+     accuracy                           1.00     59999
+    macro avg       1.00      1.00      1.00     59999
+ weighted avg       1.00      1.00      1.00     59999
+
+
+ 第6次 precision、recall、f1詳細資訊 15F-5T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5013
+    DrDoS_DNS       1.00      1.00      1.00      4970
+   DrDoS_LDAP       1.00      1.00      1.00      4981
+  DrDoS_MSSQL       1.00      1.00      1.00      5137
+    DrDoS_NTP       1.00      1.00      1.00      4944
+DrDoS_NetBIOS       1.00      1.00      1.00      4935
+   DrDoS_SNMP       1.00      1.00      1.00      5045
+   DrDoS_SSDP       1.00      1.00      1.00      5008
+    DrDoS_UDP       1.00      1.00      1.00      5012
+          Syn       1.00      1.00      1.00      4936
+         TFTP       1.00      1.00      1.00      4992
+      UDP-lag       1.00      1.00      1.00      5027
+
+     accuracy                           1.00     60000
+    macro avg       1.00      1.00      1.00     60000
+ weighted avg       1.00      1.00      1.00     60000
+
+
+ 第7次 precision、recall、f1詳細資訊 10F-15T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5012
+    DrDoS_DNS       1.00      1.00      1.00      4897
+   DrDoS_LDAP       1.00      1.00      1.00      4939
+  DrDoS_MSSQL       1.00      1.00      1.00      4994
+    DrDoS_NTP       1.00      1.00      1.00      5051
+DrDoS_NetBIOS       1.00      1.00      1.00      5019
+   DrDoS_SNMP       1.00      1.00      1.00      4992
+   DrDoS_SSDP       1.00      1.00      1.00      4942
+    DrDoS_UDP       1.00      1.00      1.00      5008
+          Syn       1.00      1.00      1.00      5187
+         TFTP       1.00      1.00      1.00      4960
+      UDP-lag       1.00      1.00      1.00      4998
+
+     accuracy                           1.00     59999
+    macro avg       1.00      1.00      1.00     59999
+ weighted avg       1.00      1.00      1.00     59999
+
+
+ 第8次 precision、recall、f1詳細資訊 10F-10T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5013
+    DrDoS_DNS       1.00      1.00      1.00      4970
+   DrDoS_LDAP       1.00      1.00      1.00      4984
+  DrDoS_MSSQL       1.00      1.00      1.00      5086
+    DrDoS_NTP       1.00      1.00      1.00      5076
+DrDoS_NetBIOS       1.00      1.00      1.00      4942
+   DrDoS_SNMP       1.00      1.00      1.00      4967
+   DrDoS_SSDP       1.00      1.00      1.00      5001
+    DrDoS_UDP       1.00      1.00      1.00      4971
+          Syn       1.00      1.00      1.00      5036
+         TFTP       1.00      1.00      1.00      4934
+      UDP-lag       1.00      1.00      1.00      5019
+
+     accuracy                           1.00     59999
+    macro avg       1.00      1.00      1.00     59999
+ weighted avg       1.00      1.00      1.00     59999
+
+
+ 第9次 precision、recall、f1詳細資訊 10F-5T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5013
+    DrDoS_DNS       1.00      1.00      1.00      4970
+   DrDoS_LDAP       1.00      1.00      1.00      4981
+  DrDoS_MSSQL       1.00      1.00      1.00      5137
+    DrDoS_NTP       1.00      1.00      1.00      4944
+DrDoS_NetBIOS       1.00      1.00      1.00      4935
+   DrDoS_SNMP       1.00      1.00      1.00      5045
+   DrDoS_SSDP       1.00      1.00      1.00      5008
+    DrDoS_UDP       1.00      1.00      1.00      5012
+          Syn       1.00      1.00      1.00      4936
+         TFTP       1.00      1.00      1.00      4992
+      UDP-lag       1.00      1.00      1.00      5027
+
+     accuracy                           1.00     60000
+    macro avg       1.00      1.00      1.00     60000
+ weighted avg       1.00      1.00      1.00     60000
+
+
+ 第10次 precision、recall、f1詳細資訊 5F-15T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5012
+    DrDoS_DNS       1.00      1.00      1.00      4897
+   DrDoS_LDAP       1.00      1.00      1.00      4939
+  DrDoS_MSSQL       1.00      1.00      1.00      4994
+    DrDoS_NTP       1.00      1.00      1.00      5051
+DrDoS_NetBIOS       1.00      1.00      1.00      5019
+   DrDoS_SNMP       1.00      1.00      1.00      4992
+   DrDoS_SSDP       1.00      1.00      1.00      4942
+    DrDoS_UDP       1.00      1.00      1.00      5008
+          Syn       1.00      1.00      1.00      5187
+         TFTP       1.00      1.00      1.00      4960
+      UDP-lag       1.00      1.00      1.00      4998
+
+     accuracy                           1.00     59999
+    macro avg       1.00      1.00      1.00     59999
+ weighted avg       1.00      1.00      1.00     59999
+
+
+ 第11次 precision、recall、f1詳細資訊 5F-10T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5013
+    DrDoS_DNS       1.00      1.00      1.00      4970
+   DrDoS_LDAP       1.00      1.00      1.00      4984
+  DrDoS_MSSQL       1.00      1.00      1.00      5086
+    DrDoS_NTP       1.00      1.00      1.00      5076
+DrDoS_NetBIOS       1.00      1.00      1.00      4942
+   DrDoS_SNMP       1.00      1.00      1.00      4967
+   DrDoS_SSDP       1.00      1.00      1.00      5001
+    DrDoS_UDP       1.00      1.00      1.00      4971
+          Syn       1.00      1.00      1.00      5036
+         TFTP       1.00      1.00      1.00      4934
+      UDP-lag       1.00      1.00      1.00      5019
+
+     accuracy                           1.00     59999
+    macro avg       1.00      1.00      1.00     59999
+ weighted avg       1.00      1.00      1.00     59999
+
+
+ 第12次 precision、recall、f1詳細資訊 5F-5T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5013
+    DrDoS_DNS       1.00      1.00      1.00      4970
+   DrDoS_LDAP       1.00      1.00      1.00      4981
+  DrDoS_MSSQL       1.00      1.00      1.00      5137
+    DrDoS_NTP       1.00      1.00      1.00      4944
+DrDoS_NetBIOS       1.00      1.00      1.00      4935
+   DrDoS_SNMP       1.00      1.00      1.00      5045
+   DrDoS_SSDP       1.00      1.00      1.00      5008
+    DrDoS_UDP       1.00      1.00      1.00      5012
+          Syn       1.00      1.00      1.00      4936
+         TFTP       1.00      1.00      1.00      4992
+      UDP-lag       1.00      1.00      1.00      5027
+
+     accuracy                           1.00     60000
+    macro avg       1.00      1.00      1.00     60000
+ weighted avg       1.00      1.00      1.00     60000
+
+
+ 第13次 precision、recall、f1詳細資訊 4F-15T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5012
+    DrDoS_DNS       1.00      1.00      1.00      4897
+   DrDoS_LDAP       1.00      1.00      1.00      4939
+  DrDoS_MSSQL       1.00      1.00      1.00      4994
+    DrDoS_NTP       1.00      1.00      1.00      5051
+DrDoS_NetBIOS       1.00      1.00      1.00      5019
+   DrDoS_SNMP       1.00      1.00      1.00      4992
+   DrDoS_SSDP       1.00      1.00      1.00      4942
+    DrDoS_UDP       1.00      1.00      1.00      5008
+          Syn       1.00      1.00      1.00      5187
+         TFTP       1.00      1.00      1.00      4960
+      UDP-lag       1.00      1.00      1.00      4998
+
+     accuracy                           1.00     59999
+    macro avg       1.00      1.00      1.00     59999
+ weighted avg       1.00      1.00      1.00     59999
+
+
+ 第14次 precision、recall、f1詳細資訊 4F-10T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5013
+    DrDoS_DNS       1.00      1.00      1.00      4970
+   DrDoS_LDAP       1.00      1.00      1.00      4984
+  DrDoS_MSSQL       1.00      1.00      1.00      5086
+    DrDoS_NTP       1.00      1.00      1.00      5076
+DrDoS_NetBIOS       1.00      1.00      1.00      4942
+   DrDoS_SNMP       1.00      1.00      1.00      4967
+   DrDoS_SSDP       1.00      1.00      1.00      5001
+    DrDoS_UDP       1.00      1.00      1.00      4971
+          Syn       1.00      1.00      1.00      5036
+         TFTP       1.00      1.00      1.00      4934
+      UDP-lag       1.00      1.00      1.00      5019
+
+     accuracy                           1.00     59999
+    macro avg       1.00      1.00      1.00     59999
+ weighted avg       1.00      1.00      1.00     59999
+
+
+ 第15次 precision、recall、f1詳細資訊 4F-5T
+               precision    recall  f1-score   support
+
+       Benign       1.00      1.00      1.00      5013
+    DrDoS_DNS       1.00      1.00      1.00      4970
+   DrDoS_LDAP       1.00      1.00      1.00      4981
+  DrDoS_MSSQL       1.00      1.00      1.00      5137
+    DrDoS_NTP       1.00      1.00      1.00      4944
+DrDoS_NetBIOS       1.00      1.00      1.00      4935
+   DrDoS_SNMP       1.00      1.00      1.00      5045
+   DrDoS_SSDP       1.00      1.00      1.00      5008
+    DrDoS_UDP       1.00      1.00      1.00      5012
+          Syn       1.00      1.00      1.00      4936
+         TFTP       1.00      1.00      1.00      4992
+      UDP-lag       1.00      1.00      1.00      5027
+
+     accuracy                           1.00     60000
+    macro avg       1.00      1.00      1.00     60000
+ weighted avg       1.00      1.00      1.00     60000
